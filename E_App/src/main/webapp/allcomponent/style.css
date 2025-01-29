@@ -1,0 +1,19 @@
+.col-md-3{
+	color:#283593;
+}
+.bg-custom{
+	background-color: #303f9f;
+}
+
+.navbar .nav-item:hover .nav-link{
+	background-color: white;
+	color:dodgerblue;
+	border-radius: 20px;
+}
+
+.text-center{
+	margin-top: 10%;
+}
+
+
+
